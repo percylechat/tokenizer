@@ -1,0 +1,13 @@
+Ce projet est tres simple a tester et deployer puisqu'il ne necessite pas d etherum
+
+Rendez vous sur : https://remix.ethereum.org/
+
+En haut a gauche, sélectionnez "upload file" et ouvrez le fichier PercyCrochet42.sol
+
+Sur la barre du haut, cliquez sur le start vert. Il permet de compiler le contrat.
+
+A gauche, cliquez sur le dernier onglet, selectionnez le contrat et cliquez sur deploy.
+
+Le contrat est maintenant deployé sur un environnement de test fourni par remix !
+
+Pour tester, il suffit d'utiliser les appels de fonction.
